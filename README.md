@@ -58,7 +58,4 @@ To run the FastAPI WhatsApp bot locally, follow these steps:
 
 9. Follow the [Twilio](https://twilio.com) documentation on how to send message to the twilio number.
 
-## Contributing
-  Contributions are welcome! If you encounter any issues or have suggestions for improvements,
-  please feel free to open an issue or submit a pull request.
   
