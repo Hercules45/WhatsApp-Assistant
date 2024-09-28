@@ -3,7 +3,7 @@
 This repository contains a FastAPI-based WhatsApp assistant that interacts with users via Twilio API. It allows users to send text and audio messages, which are processed and responded to accordingly.
 The bot utilizes various tools and APIs, including Twilio for message handling, Google Gemini for response generation, and WhisperAI for speech-to-text conversion.
 
-<img src="whatsapp-sample[1].jpg" alt="FastAPI WhatsApp Bot" width="500" height="800">
+<img src="https://github.com/Hercules45/WhatsApp-Assistant/blob/master/whatsapp-sample%5B1%5D.jpg" alt="FastAPI WhatsApp Bot" width="500" height="800">
 
 
 ## Features
