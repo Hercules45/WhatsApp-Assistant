@@ -19,7 +19,7 @@ To run the FastAPI WhatsApp bot locally, follow these steps:
 
 1. Clone this repository to your local machine:   
    ```
-   git clone https://github.com/programindz/whatsapp-assistant.git
+   git clone https://github.com/Hercules45/WhatsApp-Assistant.git
     ```
 
 3. Install the required Python dependencies:
